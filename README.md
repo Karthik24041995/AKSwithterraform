@@ -1,1 +1,1 @@
-# AKSw-terraform
+# AKS-terraform
